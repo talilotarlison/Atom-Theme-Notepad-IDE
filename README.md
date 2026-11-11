@@ -15,7 +15,7 @@
 
 Optionally, download and install Roboto Mono (highly recommended)
 
-For a default Notepad++ installation, copy functionList.xml and userDefineLang.xml to "../AppData/Roaming/Notepad++/", and copy TwoDark.xml to "../AppData/Roaming/Notepad++/themes/" 
+For a default Notepad++ installation, copy functionList.xml and userDefineLang.xml to "../AppData/Roaming/Notepad++/", and copy Atom-Theme.xml to "../AppData/Roaming/Notepad++/themes/" 
 
 For a portable install, or one where you declined to use %appdata%, copy the files to "../Program Files(x86)/Notepad++/", and "../Program Files(x86)/Notepad++/themes/"
 
