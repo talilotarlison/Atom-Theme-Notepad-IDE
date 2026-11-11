@@ -1,6 +1,6 @@
 # Atom-Theme-for-Notepad-IDE
 
-![Atom Theme](Atom_screenshot_v1.41.0.png)
+![Atom Theme](screenshot.png)
 
 ### Various bits and pieces for Notepad++
 
